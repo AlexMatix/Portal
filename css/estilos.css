@@ -1,0 +1,16 @@
+body{
+    height: 100%
+}
+#page1 {
+
+    background-image:url("../images/clini1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 70%;
+    opacity: 0.9;
+
+    }
+
+#navprincipal1 {
+
+}
